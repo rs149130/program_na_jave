@@ -10,7 +10,7 @@ public class GameEngine {
     private ConsoleUI ui;
     private boolean running;
     private int turn;
-    private static final int MAX_TURNS = 10;
+    private static final int MAX_TURNS = 20;
     private boolean won;
     private boolean lost;
     private List<GameEvent> events;
